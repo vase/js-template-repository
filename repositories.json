@@ -1,0 +1,14 @@
+{
+  "files": [
+    ".babelrc",
+    ".editorconfig",
+    ".eslintrc.js",
+    ".gitignore",
+    ".prettierrc.js",
+    ".vscode"
+  ],
+  "repositories": [
+    "git@github.com:aizatto/template-test-2.git",
+    "git@github.com:aizatto/template-test-3.git"
+  ]
+}
